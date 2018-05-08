@@ -1,7 +1,6 @@
 #include <iostream>
 /*extra 7 -"ANY DOUBLY LINKED LIST WITH COUNTNODE RECURSIVELY, PRINT BACKWARD, FORWARD"
  *Arya HajiTaheri
- *1518105
  */
 struct node {
 	int data;
